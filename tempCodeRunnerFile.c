@@ -1,1 +1,1 @@
-calculate_crc32_r
+CalculateCRC32
